@@ -1,4 +1,4 @@
-# RailsAdmin
+# RailsAdmin - Xenuim
 
 [![Gem Version](https://img.shields.io/gem/v/rails_admin.svg)][gem]
 [![Build Status](https://img.shields.io/travis/sferik/rails_admin.svg)][travis]
